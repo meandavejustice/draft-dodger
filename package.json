@@ -1,0 +1,31 @@
+{
+  "name": "draft-dodger",
+  "version": "0.0.0",
+  "description": "Temporarily add jekyll blog drafts to your .gitignore",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/meandavejustice/draft-dodger"
+  },
+  "keywords": [
+    "git",
+    "jekyll",
+    "blog",
+    "posts",
+    "drafts"
+  ],
+  "bin": {
+    "draft-dodger": "./bin/draft-dodger"
+  },
+  "author": "meandave",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/meandavejustice/draft-dodger/issues"
+  },
+  "dependencies": {
+    "prompt": "~0.2.12"
+  }
+}
