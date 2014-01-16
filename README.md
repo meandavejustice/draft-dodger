@@ -9,3 +9,9 @@ Temporarily add jekyll post drafts to your gitignore
 
 * `npm install -g draft-dodger`
 * `draftdodger`
+
+### Todo
+
+* tests
+* add option to list ignored drafts
+* add option to unignore a draft
