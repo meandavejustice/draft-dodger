@@ -1,6 +1,6 @@
 {
   "name": "draft-dodger",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Temporarily add jekyll blog drafts to your .gitignore",
   "main": "index.js",
   "scripts": {
@@ -17,9 +17,7 @@
     "posts",
     "drafts"
   ],
-  "directories": {
-    "man": "./doc/draft-dodger"
-  },
+  "man": "./doc/draft-dodger.1",
   "bin": {
     "draft-dodger": "./bin/draft-dodger"
   },
