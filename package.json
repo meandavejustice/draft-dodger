@@ -17,7 +17,7 @@
     "posts",
     "drafts"
   ],
-  "man": "./doc/draft-dodger.1",
+  "man": "./doc/draft.1",
   "bin": {
     "draft-dodger": "./bin/draft-dodger"
   },
