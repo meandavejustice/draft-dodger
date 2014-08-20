@@ -3,7 +3,7 @@ draft-dodger
 
 Temporarily add jekyll post drafts to your gitignore
 
-[![NPM](https://nodei.co/npm/draft-dodger.png)](https://nodei.co/npm/draft-dodger/)
+[![NPM](https://nodei.co/npm/draft-dodger.png?downloads=true)](https://nodei.co/npm/draft-dodger/)
 
 ![](http://i.imgur.com/anZ7GCd.png)
 
